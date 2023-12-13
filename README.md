@@ -20,18 +20,18 @@ The main goal of this project is to build a landing page from scratch about some
 
 The page should include a user interaction.
 
-- HTML requirements
+- HTML requirements:
 h1, h2, p, div, span, strong, em, br, hr, a, img, button
 
-- CSS requirements
+- CSS requirements:
 margin, padding, font-size, font-weight, color, background (with linear-gradient), line-height, box-shadow, border, transition
 
-- Javascript requirements
+- Javascript requirements:
 let, if, else, alert, prompt, event
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.shecodes.io/workshops/shecodes-basics-d11d7ab3-e6d1-417e-91bd-128075391229/projects/1934948)
+- Solution URL: (https://www.shecodes.io/workshops/shecodes-basics-d11d7ab3-e6d1-417e-91bd-128075391229/projects/1934948)
 
 ### My process
 
